@@ -8,4 +8,3 @@ except FileNotFoundError:
 else:
      msg = "File " + filename + " tồn tại."
      print(msg)
-
