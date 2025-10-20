@@ -12,3 +12,4 @@ def count_words(filename):
 filenames = ['/Users/manhhaucao/alice.txt', '/Users/manhhaucao/alice1.txt', '/Users/manhhaucao/alice2.txt']
 for filename in filenames:
      count_words(filename)
+
